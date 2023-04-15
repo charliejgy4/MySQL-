@@ -4,27 +4,25 @@ MySQL Project
 
 2.	Imported create databases. sql into sql workbench 
 
-![image](https://user-images.githubusercontent.com/103393876/232199265-bc255b2a-5d20-4dd8-baf7-e3456037bf76.png)
+![image](https://user-images.githubusercontent.com/103393876/232200992-007f06a8-677a-44b8-9c97-b72db2b3965f.png)
 
 3.	
 ![image](https://user-images.githubusercontent.com/103393876/232199288-ac83cf7c-eaa9-417b-b935-853855cecfc8.png)
 
-![image](https://user-images.githubusercontent.com/103393876/232199300-3bfdd9a2-b465-4f28-b570-32b4d9faad3b.png)
+4.	I type USE 4.	Run database in workbench it came up at SQL store.
 
-![image](https://user-images.githubusercontent.com/103393876/232198275-b7ba1c8e-b8c5-4e64-9d46-769f496be3fe.png)
-![image](https://user-images.githubusercontent.com/103393876/232199323-ab51b0e8-0a68-4708-9852-7c66fc5454d9.png)
+![image](https://user-images.githubusercontent.com/103393876/232201019-bc2b9055-39fd-4b94-8e85-30473b78f5a4.png)
 
-
-4.	I type USE 
-![image](https://user-images.githubusercontent.com/103393876/232198318-2318ec51-d4c1-4f14-b504-b1edf7911867.png)
-
+5.5.	I type USE 
+![image](https://user-images.githubusercontent.com/103393876/232201053-fda8e518-4c8c-4f95-8758-d0eaac6dccc5.png)
 
 Task 1
-•	Using the Query 2 you created change the points to reads times by 10 and plus 100. Record your results in your word document 
-![image](https://user-images.githubusercontent.com/103393876/232198721-fede7a64-b27f-4ff9-8147-9743200c922a.png)
+•	Using the Query 2 you created change the points to reads times by 10 and plus 100. Record your results in your word document. 
+![image](https://user-images.githubusercontent.com/103393876/232201074-b6597ace-872a-4720-8a15-6557003753dc.png)
+
 
 •	Change the Query 2 code to create a discount factor so the table now shows a discount header and changing the (point + 10) *100
-![image](https://user-images.githubusercontent.com/103393876/232198609-84e1fcff-de3b-47af-a88b-508d1f5b084a.png)
+![image](https://user-images.githubusercontent.com/103393876/232201083-49331e53-dc48-4719-8fd6-421591d11803.png)
 
 Task 2
 
@@ -34,20 +32,29 @@ Write a SQL query to return all the products in our database in the result set. 
    So what you are doing is increasing the product price of each by 10%. 
 
    So with the query we want all the products the original price and the new price.  
-   
+![image](https://user-images.githubusercontent.com/103393876/232201096-e67cd547-bba3-4b07-9916-d3003712d83e.png)
+![image](https://user-images.githubusercontent.com/103393876/232201109-83aceaa1-b69c-455b-ad59-1b3845a7035a.png)
+
 Task 3
 
 •	In this task create a new query to find all the customers with a birth date of > '1990-01-01'
+![image](https://user-images.githubusercontent.com/103393876/232201118-364fae20-f224-4c60-bedf-e5c5d82e132d.png)
+![image](https://user-images.githubusercontent.com/103393876/232201143-9c4a6b6d-b446-4000-8108-65cb835fabb9.png)
+
 Task 4
 •	Select SQL inventory.
 •	Write a query to find out the name of the product with most amount in stock.
+![image](https://user-images.githubusercontent.com/103393876/232201146-6b891a02-891f-4dd0-885b-c218051d24b6.png)
 
 Task 5
 •	Select SQL inventory.
 •	Write a query to find out the name of the most expensive product.
+![image](https://user-images.githubusercontent.com/103393876/232201126-75048714-1f49-4cc1-a42f-4980ca541f98.png)
+
 Task 6
 •	Select SQL store.
 •	Write a query to find out the first name, last name, address and the birthdate of the oldest customer.
+![image](https://user-images.githubusercontent.com/103393876/232201149-0670bb84-fb8c-4a14-b3cf-ec2e9402c588.png)
 
 Creating an EER Diagram
 
@@ -62,7 +69,7 @@ Creating an EER Diagram
 ![image](https://user-images.githubusercontent.com/103393876/232199150-af360cf2-5ef6-4f5d-8595-e799492f5796.png)
 ![image](https://user-images.githubusercontent.com/103393876/232199163-b155500d-1b72-423f-97fc-b1328e7ac84b.png)
 
- 
+ End of Project.
  
   
  
