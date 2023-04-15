@@ -9,11 +9,11 @@ MySQL Project
 3.	
 ![image](https://user-images.githubusercontent.com/103393876/232199288-ac83cf7c-eaa9-417b-b935-853855cecfc8.png)
 
-4.	I type USE 4.	Run database in workbench it came up at SQL store.
+4.	I type USE "Run database in workbench it came up at SQL store".
 
 ![image](https://user-images.githubusercontent.com/103393876/232201019-bc2b9055-39fd-4b94-8e85-30473b78f5a4.png)
 
-5.5.	I type USE 
+5.I type USE 
 ![image](https://user-images.githubusercontent.com/103393876/232201053-fda8e518-4c8c-4f95-8758-d0eaac6dccc5.png)
 
 Task 1
