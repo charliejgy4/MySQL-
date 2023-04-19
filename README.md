@@ -1,4 +1,4 @@
-# MySQL
+MySQL
 MySQL Project
 1.	Downloading the create databases. sql
 
